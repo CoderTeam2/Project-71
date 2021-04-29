@@ -1,0 +1,55 @@
+.navbar-inverse {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#mail{
+    background-color: aqua;
+    color: black;
+}
+.campus-mainDiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus-mainDiv img {
+    width: 50%;
+}
+
+.achievments_head{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievments_head i {
+    float: right;
+}
+
+.enviorment-li{
+    margin-top: 12px;
+}
+
+.enviorment-li h4 {
+    border-bottom: 1px solid black;
+    padding: 8px;
+}
+
+.enviorment-li p {
+    margin-top: 10px;
+}
+.list-group-item img{
+    width: 25%;
+}
+.list-group-item-text {
+  font-size: 15px;   
+}
+.modal-img{
+    width: 300px;
+    height: 250px;
+}
